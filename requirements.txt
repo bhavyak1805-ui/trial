@@ -2,9 +2,10 @@ streamlit
 mysql-connector-python
 bcrypt
 numpy
-opencv-python
+opencv-python-headless
 Pillow
 deepface
 reportlab
 anthropic
 tf-keras
+tensorflow
