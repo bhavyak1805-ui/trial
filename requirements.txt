@@ -1,0 +1,10 @@
+streamlit
+mysql-connector-python
+bcrypt
+numpy
+opencv-python
+Pillow
+deepface
+reportlab
+anthropic
+tf-keras
