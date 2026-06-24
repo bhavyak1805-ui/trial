@@ -4,8 +4,8 @@ bcrypt
 numpy
 opencv-python-headless
 Pillow
-deepface
+deepface==0.0.93
+tensorflow==2.13.1
+tf-keras
 reportlab
 anthropic
-tf-keras
-tensorflow
